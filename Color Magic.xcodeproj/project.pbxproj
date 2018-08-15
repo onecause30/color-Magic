@@ -13,6 +13,7 @@
 		E7B5EC3221228D640018A97A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7B5EC3121228D640018A97A /* Assets.xcassets */; };
 		E7B5EC3521228D640018A97A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7B5EC3321228D640018A97A /* LaunchScreen.storyboard */; };
 		E7B5EC3D212297750018A97A /* ColorPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B5EC3C212297750018A97A /* ColorPickerVC.swift */; };
+		E7B5EC3F2123E8CF0018A97A /* ColorTransferDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B5EC3E2123E8CF0018A97A /* ColorTransferDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E7B5EC3421228D640018A97A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7B5EC3621228D640018A97A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E7B5EC3C212297750018A97A /* ColorPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerVC.swift; sourceTree = "<group>"; };
+		E7B5EC3E2123E8CF0018A97A /* ColorTransferDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTransferDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E7B5EC2C21228D5A0018A97A /* ColorPresenterVC.swift */,
 				E7B5EC2E21228D5A0018A97A /* Main.storyboard */,
 				E7B5EC3C212297750018A97A /* ColorPickerVC.swift */,
+				E7B5EC3E2123E8CF0018A97A /* ColorTransferDelegate.swift */,
 				E7B5EC3121228D640018A97A /* Assets.xcassets */,
 				E7B5EC3321228D640018A97A /* LaunchScreen.storyboard */,
 				E7B5EC3621228D640018A97A /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7B5EC2D21228D5A0018A97A /* ColorPresenterVC.swift in Sources */,
+				E7B5EC3F2123E8CF0018A97A /* ColorTransferDelegate.swift in Sources */,
 				E7B5EC2B21228D5A0018A97A /* AppDelegate.swift in Sources */,
 				E7B5EC3D212297750018A97A /* ColorPickerVC.swift in Sources */,
 			);

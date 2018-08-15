@@ -34,7 +34,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="0kZ-5X-2B5">
                             <color key="tintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <segue destination="SyH-0Y-cTV" kind="show" id="26y-Ov-DNM"/>
+                                <segue destination="SyH-0Y-cTV" kind="show" identifier="presentColorPickerVC" id="26y-Ov-DNM"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
